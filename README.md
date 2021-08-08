@@ -7,8 +7,9 @@ To connect database
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 To run application
-Open [http://localhost:3000](http://localhost:3001) to view it in the browser.
 ### `yarn start`
+Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
+
 
 
 
