@@ -1,4 +1,6 @@
-# Created a basic react 
+# Created a basic react
+
+React Documentation(https://reactjs.org/docs/getting-started.html)
 
 To connect database  
 ### `json-server db.json`
