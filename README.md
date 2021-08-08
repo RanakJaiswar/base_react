@@ -6,7 +6,7 @@ To connect database
 ### `json-server db.json`
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-To run applicatio
+To run application
 Open [http://localhost:3000](http://localhost:3001) to view it in the browser.
 ### `yarn start`
 
